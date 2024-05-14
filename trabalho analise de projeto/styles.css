@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+header nav {
+    background-color: #000000;
+    color: #fff;
+}
+
+.navbar-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0;
+}
+
+.navbar-container img {
+    height: 40px; 
+    margin-right: 20px;
+}
+
+#divBusca {
+    display: flex;
+    align-items: center;
+    margin-right: auto;
+}
+
+#txtBusca {
+    padding: 8px;
+    border: none;
+    border-radius: 5px;
+    margin-right: 5px;
+}
+
+#btnBusca {
+    height: 30px; 
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+.nav-links li {
+    margin-right: 20px;
+}
+
+
+footer {
+    background-color: #000000;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+.logo{
+    width:75px;
+    height:75px;
+   
+}
+.product {
+    text-align: center;
+    max-width: 100px;
+    border: 1px solid #ddd;
+    padding: 50px;
+    margin: 10px;
+    margin-bottom: 20px;
+    
+}
+.produto1{
+    width: 100px;
+    height: 100px;
+}
+.teste{
+    display: inline;
+}
+
+.menu-item {
+    display: inline-block; 
+    margin-right: 20px; 
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+ 
